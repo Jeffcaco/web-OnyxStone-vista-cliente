@@ -46,7 +46,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>D'KAR</title>
+  <title>ONYX STONE</title>
   <link rel="icon" type="image/png" href="../img/faviconv2.png"/>
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="../css/estilos.css">
@@ -68,7 +68,7 @@
       <nav class="menu">
         <a href="../index.html">HOME</a></li>
         <a href="../Nosotros.html">NOSOTROS</a></li>
-				<a href="https://wa.link/z4gos0" target="_blank">WHATSAPP</a></li>
+				<a href="https://wa.link/xhs10m" target="_blank">WHATSAPP</a></li>
 				<a href="https://goo.gl/maps/11nKpywHspxLEXoA8" target="_blank">UBICACION</a></li>
         <a href="../Catalogo.html">CATALOGO</a></li>
       </nav>
@@ -77,7 +77,7 @@
   
   <main class="container-filtro">
       <div class="logo3">
-        <h3>BOUTIQUE D'KAR</h3>
+        <h3>BOUTIQUE ONYX STONE</h3>
         <p>Lo mejor de moda para <span>ellos!</span></p>
       </div>
       <div class="row" style="padding: 0px;margin: 0px;">

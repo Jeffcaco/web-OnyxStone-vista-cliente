@@ -25,7 +25,7 @@
       <nav class="menu">
         <a href="../index.html">HOME</a></li>
         <a href="../Nosotros.html">NOSOTROS</a></li>
-				<a href="https://wa.link/rx7lmv" target="_blank">WHATSAPP</a></li>
+				<a href="https://wa.link/xhs10m" target="_blank">WHATSAPP</a></li>
 				<a href="https://goo.gl/maps/11nKpywHspxLEXoA8" target="_blank">UBICACION</a></li>
         <a href="../Catalogo.html">CATALOGO</a></li>
       </nav>
