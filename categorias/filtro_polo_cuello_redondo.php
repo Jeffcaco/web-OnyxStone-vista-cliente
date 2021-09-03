@@ -426,7 +426,7 @@
                       <!-- Modal footer -->
                       <div class="modal-footer">
                         <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar <i class="fas fa-times"></i></button>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal">Añadir <i class="fas fa-shopping-cart"></i></button>
+                        
                       </div>
                   </div>
                 </div>
